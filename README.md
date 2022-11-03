@@ -1,2 +1,2 @@
 # discover-rocketseat
-Estudos e Projetos
+Estudos e Projetos do Curso Discover da Rocketseat
